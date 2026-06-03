@@ -53,7 +53,7 @@
 - 📧 Email: psubhransubehera@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/priyabrata-subhransu-behera-a3992a369/
 - 🐙 GitHub: https://github.com/Priyabratasubhransubehera
-- 🌐 Portfolio URL : [https://69c81666e922d98aa012bb8b--magnificent-cheesecake-571e9e.netlify.app/]
+- 🌐 Portfolio URL : [https://6a203e3dbe6ef45258865f33--lambent-puffpuff-9a9682.netlify.app/]
 
 ---
 
@@ -61,4 +61,3 @@
 > I love turning ideas into real-world projects 🚀
 
 
-Thank You ...
