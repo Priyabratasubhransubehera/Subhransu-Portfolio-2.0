@@ -53,7 +53,7 @@
 - 📧 Email: psubhransubehera@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/priyabrata-subhransu-behera-a3992a369/
 - 🐙 GitHub: https://github.com/Priyabratasubhransubehera
-- 🌐 Portfolio URL : [https://6a203e3dbe6ef45258865f33--lambent-puffpuff-9a9682.netlify.app/]
+- 🌐 Portfolio URL : [https://6a282410fa7772007cb5efe8--elegant-bublanina-102bf3.netlify.app/]
 
 ---
 
